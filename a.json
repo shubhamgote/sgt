@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "data": {
+        "net": [
+            {
+                "tradingsymbol": "BANKNIFTY23N0142800PE",
+                "exchange": "NFO-OPT",
+                "instrument_token": 12276738,
+                "product": "NRML",
+                "quantity": 0,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 174.42,
+                "close_price": 0,
+                "last_price": 151,
+                "value": -156978,
+                "pnl": 1,
+                "m2m": 1,
+                "unrealised": 12222,
+                "realised": 12222,
+                "buy_quantity": 900,
+                "buy_price": 174.42,
+                "buy_value": 156978,
+                "buy_m2m": 156978,
+                "sell_quantity": 900,
+                "sell_price": 188,
+                "sell_value": 169200,
+                "sell_m2m": 12222,
+                "day_buy_quantity": 900,
+                "day_buy_price": 184.75,
+                "day_buy_value": 174.42,
+                "day_sell_quantity": 900,
+                "day_sell_price": 188,
+                "day_sell_value": 169200
+            }
+
+        ],
+        "day": [
+             {
+                "tradingsymbol": "BANKNIFTY23N0142800PE",
+                "exchange": "NFO-OPT",
+                "instrument_token": 12276738,
+                "product": "NRML",
+                "quantity": 0,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 174.42,
+                "close_price": 0,
+                "last_price": 151,
+                "value": -156978,
+                "pnl": 1,
+                "m2m": 1,
+                "unrealised": 12222,
+                "realised": 12222,
+                "buy_quantity": 900,
+                "buy_price": 174.42,
+                "buy_value": 156978,
+                "buy_m2m": 156978,
+                "sell_quantity": 900,
+                "sell_price": 188,
+                "sell_value": 169200,
+                "sell_m2m": 12222,
+                "day_buy_quantity": 900,
+                "day_buy_price": 184.75,
+                "day_buy_value": 174.42,
+                "day_sell_quantity": 900,
+                "day_sell_price": 188,
+                "day_sell_value": 169200
+            }
+        ]
+    }
+}
