@@ -32,6 +32,37 @@
                 "day_sell_quantity": 900,
                 "day_sell_price": 338.70,
                 "day_sell_value": 304830
+            },
+			{
+                "tradingsymbol": "NIFTY23N0219150PE",
+                "exchange": "NFO",
+                "instrument_token": 12822274,
+                "product": "NRML",
+                "quantity": 2250,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 58,
+                "close_price": 0,
+                "last_price": 58,
+                "value": -130500,
+                "pnl": 0,
+                "m2m": 0,
+                "unrealised": 0,
+                "realised": 0,
+                "buy_quantity": 2250,
+                "buy_price": 58,
+                "buy_value": 130500,
+                "buy_m2m": 130500,
+                "sell_quantity": 0,
+                "sell_price": 0,
+                "sell_value": 0,
+                "sell_m2m": 1,
+                "day_buy_quantity": 2250,
+                "day_buy_price": 58,
+                "day_buy_value": 130500,
+                "day_sell_quantity": 0,
+                "day_sell_price": 0,
+                "day_sell_value": 0
             }
 
         ],
@@ -66,7 +97,39 @@
                 "day_sell_quantity": 900,
                 "day_sell_price": 338.70,
                 "day_sell_value": 304830
+            },
+			{
+                "tradingsymbol": "NIFTY23N0219150PE",
+                "exchange": "NFO",
+                "instrument_token": 12822274,
+                "product": "NRML",
+                "quantity": 2250,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 58,
+                "close_price": 0,
+                "last_price": 58,
+                "value": -130500,
+                "pnl": 0,
+                "m2m": 0,
+                "unrealised": 0,
+                "realised": 0,
+                "buy_quantity": 2250,
+                "buy_price": 58,
+                "buy_value": 130500,
+                "buy_m2m": 130500,
+                "sell_quantity": 0,
+                "sell_price": 0,
+                "sell_value": 0,
+                "sell_m2m": 1,
+                "day_buy_quantity": 2250,
+                "day_buy_price": 58,
+                "day_buy_value": 130500,
+                "day_sell_quantity": 0,
+                "day_sell_price": 0,
+                "day_sell_value": 0
             }
+
         ]
     }
 }
