@@ -4,7 +4,7 @@
         "net": [
             {
                 "tradingsymbol": "BANKNIFTY23N0843200CE",
-                "exchange": "NFO-OPT",
+                "exchange": "NFO",
                 "instrument_token": 10427394,
                 "product": "NRML",
                 "quantity": 0,
@@ -38,7 +38,7 @@
         "day": [
              {
                 "tradingsymbol": "BANKNIFTY23N0843200CE",
-                "exchange": "NFO-OPT",
+                "exchange": "NFO",
                 "instrument_token": 10427394,
                 "product": "NRML",
                 "quantity": 0,
