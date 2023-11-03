@@ -7,7 +7,7 @@
                 "exchange": "NFO",
                 "instrument_token": 10430722,
                 "product": "NRML",
-                "quantity": 3330,
+                "quantity": 0,
                 "overnight_quantity": 0,
                 "multiplier": 1,
                 "average_price": 133,
@@ -22,16 +22,16 @@
                 "buy_price": 133,
                 "buy_value": 442890,
                 "buy_m2m": 442890,
-                "sell_quantity": 0,
-                "sell_price": 0,
-                "sell_value": 0,
-                "sell_m2m": 0,
+                "sell_quantity": 3330,
+                "sell_price": 126,
+                "sell_value": 419580,
+                "sell_m2m": 419580,
                 "day_buy_quantity": 3330,
                 "day_buy_price": 133,
                 "day_buy_value": 442890,
-                "day_sell_quantity": 0,
-                "day_sell_price": 0,
-                "day_sell_value": 0
+                "day_sell_quantity": 3330,
+                "day_sell_price": 126,
+                "day_sell_value": 419580
             }
 
         ],
@@ -41,7 +41,7 @@
                 "exchange": "NFO",
                 "instrument_token": 10430722,
                 "product": "NRML",
-                "quantity": 3330,
+                "quantity": 0,
                 "overnight_quantity": 0,
                 "multiplier": 1,
                 "average_price": 133,
@@ -56,16 +56,16 @@
                 "buy_price": 133,
                 "buy_value": 442890,
                 "buy_m2m": 442890,
-                "sell_quantity": 0,
-                "sell_price": 0,
-                "sell_value": 0,
-                "sell_m2m": 0,
+                "sell_quantity": 3330,
+                "sell_price": 126,
+                "sell_value": 419580,
+                "sell_m2m": 419580,
                 "day_buy_quantity": 3330,
                 "day_buy_price": 133,
                 "day_buy_value": 442890,
-                "day_sell_quantity": 0,
-                "day_sell_price": 0,
-                "day_sell_value": 0
+                "day_sell_quantity": 3330,
+                "day_sell_price": 126,
+                "day_sell_value": 419580
             }
 
         ]
