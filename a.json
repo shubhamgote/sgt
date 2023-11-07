@@ -34,7 +34,7 @@
                 "day_sell_value": 202725
             },
 			{
-                "tradingsymbol": "FINNIFTY23N0719400PE",
+                "tradingsymbol": "FINNIFTY23N0719500CE",
                 "exchange": "NFO",
                 "instrument_token": 9984002,
                 "product": "NRML",
@@ -119,6 +119,7 @@
                 "buy_m2m": 0,
                 "sell_quantity": 0,
                 "sell_price": 0,
+				
                 "sell_value": 0,
                 "sell_m2m": 0,
                 "day_buy_quantity": 1760,
