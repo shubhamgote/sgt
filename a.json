@@ -32,8 +32,38 @@
                 "day_sell_quantity": 765,
                 "day_sell_price": 265,
                 "day_sell_value": 202725
+            },
+			{
+                "tradingsymbol": "FINNIFTY23N0719400PE",
+                "exchange": "NFO",
+                "instrument_token": 9982722,
+                "product": "NRML",
+                "quantity": 1720,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 19.45,
+                "close_price": 0,
+                "last_price": 19.45,
+                "value": -33454,
+                "pnl": 0,
+                "m2m": 0,
+                "unrealised": 0,
+                "realised": 0,
+                "buy_quantity": 1720,
+                "buy_price": 19.45,
+                "buy_value": 33454,
+                "buy_m2m": 0,
+                "sell_quantity": 0,
+                "sell_price": 0,
+                "sell_value": 0,
+                "sell_m2m": 0,
+                "day_buy_quantity": 1720,
+                "day_buy_price": 19.45,
+                "day_buy_value": 33454,
+                "day_sell_quantity": 0,
+                "day_sell_price": 0,
+                "day_sell_value": 0
             }
-
 
         ],
         "day": [
@@ -67,6 +97,36 @@
                 "day_sell_quantity": 765,
                 "day_sell_price": 265,
                 "day_sell_value": 202725
+            },{
+                "tradingsymbol": "FINNIFTY23N0719400PE",
+                "exchange": "NFO",
+                "instrument_token": 9982722,
+                "product": "NRML",
+                "quantity": 1720,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 19.45,
+                "close_price": 0,
+                "last_price": 19.45,
+                "value": -33454,
+                "pnl": 0,
+                "m2m": 0,
+                "unrealised": 0,
+                "realised": 0,
+                "buy_quantity": 1720,
+                "buy_price": 19.45,
+                "buy_value": 33454,
+                "buy_m2m": 0,
+                "sell_quantity": 0,
+                "sell_price": 0,
+                "sell_value": 0,
+                "sell_m2m": 0,
+                "day_buy_quantity": 1720,
+                "day_buy_price": 19.45,
+                "day_buy_value": 33454,
+                "day_sell_quantity": 0,
+                "day_sell_price": 0,
+                "day_sell_value": 0
             }
 
 
