@@ -36,7 +36,7 @@
 			{
                 "tradingsymbol": "FINNIFTY23N0719400PE",
                 "exchange": "NFO",
-                "instrument_token": 9982722,
+                "instrument_token": 9984002,
                 "product": "NRML",
                 "quantity": 1760,
                 "overnight_quantity": 0,
@@ -100,7 +100,7 @@
             },{
                 "tradingsymbol": "FINNIFTY23N0719500CE",
                 "exchange": "NFO",
-                "instrument_token": 9982722,
+                "instrument_token": 9984002,
                 "product": "NRML",
                 "quantity": 1760,
                 "overnight_quantity": 0,
