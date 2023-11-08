@@ -1,4 +1,38 @@
-,
+{
+    "status": "success",
+    "data": {
+        "net": [
+            {
+                "tradingsymbol": "BANKNIFTY23N0844000CE",
+                "exchange": "NFO",
+                "instrument_token": 10435330,
+                "product": "NRML",
+                "quantity": 0,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 30,
+                "close_price": 30,
+                "last_price": 28,
+                "value": -27000,
+                "pnl": -7200,
+                "m2m": -7200,
+                "unrealised": -7200,
+                "realised": -7200,
+                "buy_quantity": 900,
+                "buy_price": 30,
+                "buy_value": 27000,
+                "buy_m2m": 0,
+                "sell_quantity": 900,
+                "sell_price": 22,
+                "sell_value": 19800,
+                "sell_m2m": 0,
+                "day_buy_quantity": 900,
+                "day_buy_price": 22,
+                "day_buy_value": 19800,
+                "day_sell_quantity": 0,
+                "day_sell_price": 0,
+                "day_sell_value": 0
+            },
 			{
                 "tradingsymbol": "BANKNIFTY23N0843600PE",
                 "exchange": "NFO",
@@ -30,3 +64,74 @@
                 "day_sell_price": 0,
                 "day_sell_value": 0
             }
+			
+
+        ],
+        "day": [
+             {
+                "tradingsymbol": "BANKNIFTY23N0844000CE",
+                "exchange": "NFO",
+                "instrument_token": 10435330,
+                "product": "NRML",
+                "quantity": 0,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 30,
+                "close_price": 30,
+                "last_price": 28,
+                "value": -27000,
+                "pnl": -7200,
+                "m2m": -7200,
+                "unrealised": -7200,
+                "realised": -7200,
+                "buy_quantity": 900,
+                "buy_price": 30,
+                "buy_value": 27000,
+                "buy_m2m": 0,
+                "sell_quantity": 900,
+                "sell_price": 22,
+                "sell_value": 19800,
+                "sell_m2m": 0,
+                "day_buy_quantity": 900,
+                "day_buy_price": 22,
+                "day_buy_value": 19800,
+                "day_sell_quantity": 0,
+                "day_sell_price": 0,
+                "day_sell_value": 0
+            },
+			{
+                "tradingsymbol": "BANKNIFTY23N0843600PE",
+                "exchange": "NFO",
+                "instrument_token": 10430978,
+                "product": "MIS",
+                "quantity": 900,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 86.25,
+                "close_price": 84,
+                "last_price": 84,
+                "value": -77625,
+                "pnl": -1,
+                "m2m": -1,
+                "unrealised": -1,
+                "realised": -1,
+                "buy_quantity": 900,
+                "buy_price": 86.25,
+                "buy_value": 77625,
+                "buy_m2m": 0,
+                "sell_quantity": 0,
+                "sell_price": 0,
+                "sell_value": 0,
+                "sell_m2m": 0,
+                "day_buy_quantity": 900,
+                "day_buy_price": 86.25,
+                "day_buy_value": 77625,
+                "day_sell_quantity": 0,
+                "day_sell_price": 0,
+                "day_sell_value": 0
+            }
+
+
+        ]
+    }
+}
