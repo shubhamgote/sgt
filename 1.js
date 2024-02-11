@@ -1,7 +1,7 @@
 {
   "result": "1",
   "message": "Profile updated successfully",
-  "plan_type": "Free",
+  "plan_type": "Paid",
   "record": {
     "id": 73157,
     "default_company_id": 63643,
@@ -21,7 +21,7 @@
     "plan_start": null,
     "plan_end": null,
     "language": null,
-    "add_watermark": "No",
+    "add_watermark": "Yes",
     "status": "Active",
     "created_at": "2023-11-02 15:01:56",
     "updated_at": "2024-02-10 18:53:35",
